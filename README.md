@@ -1,4 +1,4 @@
 # Actividad-opcional-1
-Working :pencil12:
+Working :pencil:
 Stage :pushpin:
 Repositorio :paperclip:
